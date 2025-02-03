@@ -1,4 +1,4 @@
-# Dependency Injection
+# Simple Dependency Injection
 Dependency Injection 이란 객체 지향 프로그래밍에서 객체 간의 의존 관계를 외부에서 주입해줌으로써 객체 간의 결합도를 낮추고, 코드의 재사용성과 테스트 용이성을 높이는 디자인 패턴 중 하나이다.
 
 # Reference
